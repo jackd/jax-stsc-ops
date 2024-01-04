@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        88
+    ],
+    "files.trimTrailingWhitespace": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
+
+}
